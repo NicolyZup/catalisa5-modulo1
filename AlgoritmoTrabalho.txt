@@ -1,0 +1,22 @@
+Algortimo - Trabalho
+
+1. Acordo e abro os olhos
+2. Me alongo e coloco roupas mais confortáveis 
+4. Vou ate o banheiro
+5. Lavo o rosto
+6. Passo protetor solar no rosto
+7. Escovo os dentes
+8. Penteio o cabelo
+9. Vou ate a cozinha
+10. Coloco agua para ferver
+11. Preparo minha xicará
+12. Coloco o sache de café na xicará
+13. Coloco a agua fervente na xicará
+14. Tomo o café
+15. Encho minha garrafinha de agua
+16. Vou até o quarto (escritório)
+17. Coloco minha garrafinha de agua do lado do notebook
+18. Ligo o notebook
+19. Abro as janelas
+20. Faço login no email da zup
+21. Entro na sala de aula online.
